@@ -1,3 +1,21 @@
+@media screen and (min-width: 640px) {
+  body {
+	width: 100%;
+	margin: 0;
+	background: url("../images/background.png")
+  }
+
+@media screen and (min-width: 768px) {
+  body {
+  	width: 100%;
+  }
+
+@media screen and (min-width: 980px) {
+  body {
+  	width: 100%;
+  }
+
+
 /*updating header style on all pages*/
 header {
 	height: 75px;
